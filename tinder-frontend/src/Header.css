@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+}
+.header_image {
+	object-fit: contain;
+	height: 40px;
+	padding: 20px;
+}
+.header {
+	display: flex;
+	justify-content: space-between;
+	border-bottom: solid 1px whitesmoke;
+	z-index: 100;
+}
